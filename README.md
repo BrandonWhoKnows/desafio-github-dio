@@ -1,5 +1,8 @@
-# Desafio de projeto da DIO sobre Git e GitHub
-Repositório criado para o desafio de projeto.
+# 📟 Calculadora Básica - Projeto de prática do GitHub
 
-## Links úteis:
-[Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
+## 📋 Descrição
+Uma calculadora web simples que permite realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão. Código utilizado por mim para praticar comandos Git e subir um projeto no GitHub! 💻✨
+
+## 🤝 Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do repositório, criar uma nova branch, fazer suas alterações e enviar um pull request. Vamos melhorar este projeto juntos! 🙌
+
